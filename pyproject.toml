@@ -1,0 +1,14 @@
+[project]
+name = "yk-node-suite-comfyui"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/yankeguo-deprecated/yk-node-suite-comfyui"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "yk-node-suite-comfyui"
+Icon = ""
